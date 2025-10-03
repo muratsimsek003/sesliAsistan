@@ -1,0 +1,8 @@
+SpeechRecognition
+transformers
+torch
+pygame
+edge-tts
+scikit-learn
+numpy
+pyaudio
